@@ -18,7 +18,11 @@ Refer to the [upgrading guide](https://github.com/cosmos/cosmos-sdk/blob/release
 * Support of [ABCI 2.0](https://github.com/cometbft/cometbft/tree/v0.38.0/spec/abci) in the SDK.
     * Support of [Vote Extensions](https://docs.cosmos.network/v0.50/build/building-apps/vote-extensions)
 
-* A Modular SDK: standalone modules
+* A begin of modularity
+    * x/feegrant, x/nft, x/upgrade, x/evidence are now standalone modules
+    * x/capability is moved to ibc
+
+* Optimisc Execution
 
 * IAVL v1
 

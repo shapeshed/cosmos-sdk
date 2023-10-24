@@ -31,6 +31,4 @@ Ref: https://keepachangelog.com/en/1.0.0/
 
 ## [Unreleased]
 
-### Features
-
-* [#17825](https://github.com/cosmos/cosmos-sdk/pull/17825) Add AutoCLI Options.
+## x/nft v0.1.0
